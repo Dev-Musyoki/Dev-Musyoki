@@ -19,7 +19,10 @@ I am a Software Engineering student passionate about building real-world web app
 ##  Tech Stack
 - HTML
 - CSS
-- JavaScript (Learning)
+- JavaScript
+- Java(Learning)
+-React(Learning)
+  Python(Learning)
 - Git & GitHub
 
 ---
