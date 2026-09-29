@@ -21,8 +21,8 @@ I am a Software Engineering student passionate about building real-world web app
 - CSS
 - JavaScript
 - Java(Learning)
--React(Learning)
-  Python(Learning)
+- React(Learning)
+- Python(Learning)
 - Git & GitHub
 
 ---
